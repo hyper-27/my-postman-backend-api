@@ -16,7 +16,7 @@ const PORT = process.env.PORT || 5000;
 // app.use(cors()); // OLD line
 
 app.use(cors({ // <--- NEW: CORS configuration for production
-    origin: 'https://my-postman-frontend-app.vercel.app/', // Replacing with  actual frontend URL (e.g., https://my-postman.vercel.app)
+    origin: 'https://my-postman-frontend-app.vercel.app', // Replacing with  actual frontend URL (e.g., https://my-postman.vercel.app)
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH'],
     credentials: true // Allow cookies/authorization headers
 }));
