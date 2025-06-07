@@ -1,7 +1,3 @@
-Here’s an analysis of your repository hyper-27/my-postman-backend-api to help you create a README.md. Below is a suggested outline and content based on your repo’s description, language usage (JavaScript), and its role as the backend for a Postman clone. You can copy and edit this as needed.
-
----
-
 # my-postman-backend-api
 
 Powering our Postman clone, the backend — engineered right here in Indore — is designed for robust data management and secure user operations. It primarily handles the secure storage and retrieval of user-created API requests, including request configurations, collections, and environments.
@@ -83,4 +79,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-If you want the README to include more technical details (like specific API routes, authentication logic, error handling, or database schema), let me know! I can help generate more sections or clarify anything further.
